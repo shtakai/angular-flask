@@ -1,5 +1,7 @@
 # AngularJS + Flask Boilerplate App
 
+[![GuardRails badge](https://badges.production.guardrails.io/shtakai/angular-flask.svg)](https://www.guardrails.io)
+
 A template for building apps with an Angular frontend and a Flask / python backend.
 
 ### How to Get Started
